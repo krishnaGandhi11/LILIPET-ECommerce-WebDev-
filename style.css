@@ -84,6 +84,9 @@ button.white{
     top: 0;
     left: o;
 }
+.logo{
+    height: 3vh;
+}
 #navbar{
     display: flex;
     justify-content: center;
@@ -126,7 +129,7 @@ button.white{
     display: none;
 }
 #hero{
-    background-image: url("img/hero4.png");
+    background-image: url("this-is-back.jpg");
     height: 90vh;
     width: 100%;
     background-size: cover;
